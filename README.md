@@ -17,7 +17,6 @@ This application enables you to summarize articles with just one click using the
     <img alt="READMEs Screenshot" src="readme.png">
   </picture>
 </a>
-
 ### Demo - Deployed over Netlify
 <a href="##" target="blank" align="center"> 
 Live Preview 🌐
