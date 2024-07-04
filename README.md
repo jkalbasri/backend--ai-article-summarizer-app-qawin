@@ -11,9 +11,9 @@
 
 This application enables you to summarize articles with just one click using the OpenAI model.
 
-## 🌐 <a href="https://jkalbasri.github.io/frontend--ai-article-summarizer-app-qawin/" target="blank" align="center"> Live Preview </a>
+## 🌐 <a href="https://ai-article-summarizer-app-qawin.vercel.app/" target="blank" align="center"> Live Preview </a>
 
-<a href="https://jkalbasri.github.io/frontend--ai-article-summarizer-app-qawin/" target="blank" align="center">
+<a href="https://ai-article-summarizer-app-qawin.vercel.app/" target="blank" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="readme.png">
     <img alt="READMEs Screenshot" src="readme.png">
